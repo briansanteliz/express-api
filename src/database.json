@@ -1,0 +1,17 @@
+[
+    {
+       "id":1,
+       "pelicula":"The Joker",
+       "genero":"Drama",
+       "año":"2019",
+       "actor":"Joaquin Phoenix" 
+
+    },
+    {
+        "id":2,
+        "pelicula":"The Man Of Steel",
+        "genero":"Superheroe",
+        "año":"2015",
+        "actor":"Henry Cavill"
+    }
+]
